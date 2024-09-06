@@ -20,7 +20,7 @@
     "dev:host": "vite --host"
   },
   "engines": {
-    "node": "20.x"
+    "node": "20"
   },
   "packageManager": "yarn@1.22.22",
   "dependencies": {
@@ -42,8 +42,7 @@
     "react-dom": "^18.3.1",
     "react-helmet-async": "^2.0.5",
     "react-router-dom": "^6.26.1",
-    "simplebar-react": "^3.2.6",
-    "xxxx": "^3.0.4"
+    "simplebar-react": "^3.2.6"
   },
   "devDependencies": {
     "@types/node": "^22.5.0",
